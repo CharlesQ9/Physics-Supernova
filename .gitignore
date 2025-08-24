@@ -1,0 +1,13 @@
+__pycache__/
+output*/
+*.txt
+*.pth
+*.pt
+output/
+utils/__pycache__/
+wolfexamples/
+mkd_files/
+mkd_model_answers/
+run_script_phybench.py
+run_script_phybench.sh
+batchrun_copy2.py
