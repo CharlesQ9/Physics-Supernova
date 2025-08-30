@@ -1,6 +1,6 @@
-# Physics Supernova — Physics Problem-Solving Agent ⚙️
+# Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025 ⚙️
 
-Physics Supernova is an agent system with strong Physics problem solving ability.
+Physics Supernova is an agent system with strong Physics problem solving ability which matches elite gold medalists at IPhO 2025.
 
 <p align="center">
   <img alt="Pipeline" src="figures/fig_pipeline_supernova.png" width="75%">
