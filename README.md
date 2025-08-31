@@ -1,6 +1,8 @@
 # Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025 ⚙️
 
-Physics Supernova is an agent system with strong Physics problem solving ability which matches elite gold medalists at IPhO 2025.
+Repository for the paper: **Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025**.
+
+Physics Supernova is an agent system with strong Physics problem solving ability: it achieves **Gold Medal** at **IPhO 2025** theory problems, and surpasses the Gold Medalist median score.
 
 <p align="center">
   <img alt="Pipeline" src="figures/fig_pipeline_supernova.png" width="75%">
