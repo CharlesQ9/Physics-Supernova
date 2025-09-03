@@ -1,6 +1,6 @@
 # Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025 ⚙️
 
-Repository for the paper: **Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025**.
+Repository for the paper: **Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025**. ([ArXiv Link🔗](https://arxiv.org/abs/2509.01659))
 
 Physics Supernova is an agent system with strong Physics problem solving ability: it achieves **Gold Medal** at **IPhO 2025** theory problems, and surpasses the Gold Medalist median score.
 
@@ -188,6 +188,23 @@ bash judge_answer/judge_answers.sh
 
 ---
 
+## Citation 🔗
+
+Thank you for your interest! Please use the following bibtex for citing our paper:
+
+```bibtex
+@misc{qiu2025physicssupernovaaiagent,
+      title={Physics Supernova: AI Agent Matches Elite Gold Medalists at IPhO 2025}, 
+      author={Jiahao Qiu and Jingzhe Shi and Xinzhe Juan and Zelin Zhao and Jiayi Geng and Shilong Liu and Hongru Wang and Sanfeng Wu and Mengdi Wang},
+      year={2025},
+      eprint={2509.01659},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.01659}, 
+}
+```
+
 ## Acknowledgments 🙏
 
 Built on [`smolagents`](https://github.com/huggingface/smolagents). Evaluation inspired by IPhO 2025 theory tasks.
+
